@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544022739218.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1432284094",
+    "id" : "D81DEC91",
+    "lastKnownWriteTime" : 1544022761,
+    "last_content_update" : 1544022761463,
+    "path" : "~/Documents/R/git_shit/test_file.R",
+    "project_path" : "test_file.R",
+    "properties" : {
+        "cursorPosition" : "4,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
